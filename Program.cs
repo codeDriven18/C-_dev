@@ -6,7 +6,8 @@ namespace Anything
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            int number = -10;
+            Console.WriteLine("Hello World!" + number);
         }
     }
 }
